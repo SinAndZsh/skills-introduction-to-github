@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_new_chat"
+        android:title="New Chat"/>
+    <item
+        android:id="@+id/menu_add_contacts"
+        android:title="Add Contacts"/>
+    <item
+        android:id="@+id/menu_scan"
+        android:title="Scan"/>
+    <item
+        android:id="@+id/menu_money"
+        android:title="Money"/>
+    <item
+        android:id="@+id/menu_support"
+        android:title="Support"/>
+</menu>
